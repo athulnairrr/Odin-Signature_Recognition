@@ -102,7 +102,7 @@ If you wish to contribute to Odin, please submit a pull request with your propos
 
 ## Authors
 
--   [@athulnairrr](](https://github.com/athulnairrr))
+-   [@athulnairrr](https://github.com/athulnairrr)
 
 ## License
 
