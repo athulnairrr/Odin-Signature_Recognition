@@ -1,4 +1,5 @@
-<img src="https://github.com/Devanshu-17/Odin/assets/93381397/e09e1aee-fd87-4d3b-be4f-1dbd0530cbe8"  width="100" height="100">
+
+![00](https://github.com/athulnairrr/Odin-Signature_Recognition/assets/132225542/5221728b-7971-4388-8614-bfd31931575d)
 
 # Odin: Revolutionising Attendance Management with Signature Recognition
 
@@ -49,52 +50,62 @@ To install Odin, follow these steps:
 
 ### HOMEPAGE:
 
-<img width="452" alt="image" src="https://github.com/Devanshu-17/Odin/assets/93381397/44ee9b43-dc99-4773-b94e-4707960b3d33">
+<img width="452" alt="01" src="https://github.com/athulnairrr/Odin-Signature_Recognition/assets/132225542/72b8501d-6fc0-4dc6-adea-33431c00c9f9">
+
 
 ### LOGIN PAGE:
 
-<img width="452" alt="image" src="https://github.com/Devanshu-17/Odin/assets/93381397/6568bcb6-a427-4df0-824f-cd24f5e07353">
-
+<img width="452" alt="02" src="https://github.com/athulnairrr/Odin-Signature_Recognition/assets/132225542/b08cc439-ae6a-458c-babb-4dc53dfe99ca">
  
 ### USER PROFILE:
 
-<img width="452" alt="image" src="https://github.com/Devanshu-17/Odin/assets/93381397/eadf5d17-b99f-4ea0-88b4-a242b87ebcd7">
+<img width="452" alt="03" src="https://github.com/athulnairrr/Odin-Signature_Recognition/assets/132225542/f16fcf2e-af3d-40ff-87e1-4e0b38eb59da">
+
 
 ### UPLOAD ATTENDANCE SHEET FOR CROPPING EACH SIGNATURES:
 
-<img width="452" alt="image" src="https://github.com/Devanshu-17/Odin/assets/93381397/f4d0179b-17d2-4332-89a6-a6741a39edf4">
+<img width="452" alt="04" src="https://github.com/athulnairrr/Odin-Signature_Recognition/assets/132225542/f5adf323-c804-4231-b2bf-d279c8f844b6">
+
 
 ### CROPPED SIGNATURES:
 
-<img width="452" alt="image" src="https://github.com/Devanshu-17/Odin/assets/93381397/a05851da-047e-4b12-93cb-f88267fd1594">
+<img width="452" alt="05" src="https://github.com/athulnairrr/Odin-Signature_Recognition/assets/132225542/d61c1e7f-c75c-4cad-8a8f-b706069f83b7">
+
 
 ### SAVING CROPPED SIGNATURES:
 
- <img width="452" alt="image" src="https://github.com/Devanshu-17/Odin/assets/93381397/ef0ce645-c0a8-4739-90b8-237769e3ea02">
+ <img width="452" alt="06" src="https://github.com/athulnairrr/Odin-Signature_Recognition/assets/132225542/38669b33-d5b4-49bc-a209-e60049f87fd2">
+
 
 ### PREDICTING SIGNATURES:
 
-<img width="452" alt="image" src="https://github.com/Devanshu-17/Odin/assets/93381397/d04b1c5c-eeed-47ec-9986-c717f86d3d34">
+<img width="452" alt="07" src="https://github.com/athulnairrr/Odin-Signature_Recognition/assets/132225542/b6fd2036-c3eb-48ba-846e-7d81beaaebb4">
+
 
 <br />
 
-<img width="452" alt="image" src="https://github.com/Devanshu-17/Odin/assets/93381397/8d08203b-297b-4e3f-acce-336cc5b91da5">
+<img width="452" alt="08" src="https://github.com/athulnairrr/Odin-Signature_Recognition/assets/132225542/979ca5af-c16f-4162-9ab8-ba16a81cfe9a">
+
 
 <br />
 
-<img width="452" alt="image" src="https://github.com/Devanshu-17/Odin/assets/93381397/e6efd9f7-99f8-47e2-be2c-257f992acb72">
+<img width="452" alt="09" src="https://github.com/athulnairrr/Odin-Signature_Recognition/assets/132225542/0ef86a3c-f7bb-4ca4-a81a-f5c65c43c030">
+
 
 ### CSV FILES:
 
- <img width="452" alt="image" src="https://github.com/Devanshu-17/Odin/assets/93381397/a4506326-8e61-489c-a1a4-749959fc6eeb">
+<img width="452" alt="10" src="https://github.com/athulnairrr/Odin-Signature_Recognition/assets/132225542/aab3e579-9ef3-4018-86b5-ccddd67f5f32">
+
 
 ### USER DASHBOARD AFTER PREDICTION:
 
-<img width="452" alt="image" src="https://github.com/Devanshu-17/Odin/assets/93381397/6d284857-10a6-46ff-8bdd-98245bc9fe2d">
+<img width="452" alt="11" src="https://github.com/athulnairrr/Odin-Signature_Recognition/assets/132225542/e9c5edd7-9ec3-4e3e-a30e-702071d3584b">
+
 
 <br />
 
-<img width="452" alt="image" src="https://github.com/Devanshu-17/Odin/assets/93381397/6b4cce21-7028-43fe-8e2d-488e78ff370d">
+<img width="452" alt="12" src="https://github.com/athulnairrr/Odin-Signature_Recognition/assets/132225542/fe42ba90-2a59-4341-8aca-259f6b7979f6">
+
 
 ## Contributing:
 
