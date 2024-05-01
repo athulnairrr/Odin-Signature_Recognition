@@ -1,5 +1,5 @@
 
-<img src="https://github.com/athulnairrr/Odin-Signature_Recognition/assets/132225542/5221728b-7971-4388-8614-bfd31931575d" alt="Logo" style="width: 200px;"/>
+<img src="https://github.com/athulnairrr/Odin-Signature_Recognition/assets/132225542/5221728b-7971-4388-8614-bfd31931575d" alt="Logo" style="width: 100px;"/>
 
 # Odin: Revolutionising Attendance Management with Signature Recognition
 
